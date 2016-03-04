@@ -1,0 +1,4 @@
+9/2015 Average Temperature: 13.780000
+10/2015 Average Temperature: 8.122581
+11/2015 Average Temperature: 7.770000
+12/2015 Average Temperature: 6.93
