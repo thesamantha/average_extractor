@@ -26,8 +26,8 @@ int main () {
 	int monthly_avgs[12];
 	long int temp_whole;		//decimal long integer to store whole temperature (comprised of temp_main and temp_sub)
 	Date date;
-	char title[30], time[30], region[30];
-	char temp_main[3], temp_sub[3];		//read in components of temperature as characters and then concatenate to form a single integer
+	char title[30], time[30], region[30], temp_main[3], temp_sub[3];
+
 
 
 	FILE *data;

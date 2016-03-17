@@ -1,0 +1,23 @@
+while (date.month == current) {
+
+	total+= temp_whole
+	count++;
+
+}
+
+	average = total/count;
+	fprintf(averages, "%d/%d Average Temperature: %lf\n", date.month, date.year, average);
+
+while it's still that month accumulate, read
+op, not that month anymore! break
+calculate average
+
+
+while month == current_month
+sum += daily_temp
+count++
+read
+
+avg = sum/count
+fprintf(avg)
+month = current_month
